@@ -1,0 +1,33 @@
+- Frontend vs Backend vs Full Stack
+- What is your goal?
+- Basic Tools
+- HTML & CSS -> 8/10
+- Sass -> 5/10
+- CSS Frameworks -> bootstrap, tailwind
+- UI Design Practices
+- Vanilla JavaScript -> 5/10
+- Basic Frontend Deployment -> 5/10
+- Domain Names, SSL, etc -> 7/10
+- Frontend Frameworks -> React 6/10
+- State Management -> Redux 5/10
+- TypeScript -> 5/10
+- Testing
+- Server Side Rendering -> Next 6/10
+- Static Site Generators -> Next 6/10
+- Headless CMS
+- The Jamstack
+- Server Side Languages -> Python
+- Server Side Frameworks -> Django
+- Databases -> Postgresql, MySql, Redis (JackOfAll)
+- GraphQL
+- Socket.io  & Real-Time Apps
+- Wordpress Development -> 3/10
+- Deployment, Servers & DevOps -> 2/10
+- Mobile Development
+- Progressive Web Apps
+- Desktop Apps With Web Tech
+- AI / Machine Learning
+- Web Assembly
+- Algorithms -> Basics
+- Data Structures -> Basics
+- Software Design Patterns
